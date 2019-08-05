@@ -1,0 +1,46 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Wed Apr 05 17:47:23 2017           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.0600 (11/22/96)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,Typing Master Software.CAB
+[file list]
+1,0,Setup.Lst,5255
+1,0,setup.exe,140800
+1,1,Typing Master Software.exe,5730304
+1,1,msvbvm60.dll,1386496
+1,1,oleaut32.dll,552632
+1,1,olepro32.dll,80384
+1,1,asycfilt.dll,69632
+1,1,stdole2.tlb,16896
+1,1,COMCAT.DLL,22288
+1,1,MSSTDFMT.DLL,125744
+1,1,DAO350.DLL,570128
+1,1,MSJET35.DLL,1045776
+1,1,MSJTER35.DLL,24848
+1,1,MSJINT35.DLL,123664
+1,1,vbajet32.dll,30749
+1,1,expsrv.dll,380957
+1,1,MSRD2X35.DLL,252176
+1,1,MSREPL35.DLL,407312
+1,1,MSVCRT40.DLL,326656
+1,1,VB5DB.DLL,89360
+1,1,RICHTX32.OCX,203576
+1,1,RICHED32.DLL,174352
+1,1,MSADODC.OCX,118064
+1,1,msado20.tlb,50176
+1,1,MSBIND.DLL,77824
+1,1,MSDATGRD.OCX,260920
+1,1,SETUP1.EXE,286720
+1,1,VB6STKIT.DLL,102912
+1,1,ST6UNST.EXE,73216
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Wed Apr 05 17:47:23 2017           **
+;**                                                                **
+;*** END ************************************************************
